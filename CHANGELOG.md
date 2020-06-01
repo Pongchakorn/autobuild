@@ -1,3 +1,10 @@
+# [1.1.0](https://github.com/Pongchakorn/autobuild/compare/v1.0.1...v1.1.0) (2020-06-01)
+
+
+### Features
+
+* change test file ([7dc0c38](https://github.com/Pongchakorn/autobuild/commit/7dc0c388da936510370083db3b0d207ef622bde1))
+
 ## [1.0.1](https://github.com/Pongchakorn/autobuild/compare/v1.0.0...v1.0.1) (2020-06-01)
 
 
