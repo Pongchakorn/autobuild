@@ -1,3 +1,10 @@
+## [1.0.1](https://github.com/Pongchakorn/autobuild/compare/v1.0.0...v1.0.1) (2020-06-01)
+
+
+### Bug Fixes
+
+* change test file ([e74ed90](https://github.com/Pongchakorn/autobuild/commit/e74ed90c66cdaa3d6746ee99d46e3e410e6bf32a))
+
 # 1.0.0 (2020-06-01)
 
 
