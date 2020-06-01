@@ -1,3 +1,15 @@
+# [2.0.0](https://github.com/Pongchakorn/autobuild/compare/v1.1.0...v2.0.0) (2020-06-01)
+
+
+### Features
+
+* test ([68a6530](https://github.com/Pongchakorn/autobuild/commit/68a65306a61ec7e3c0432d7fb697937a95fe2f52))
+
+
+### BREAKING CHANGES
+
+* test
+
 # [1.1.0](https://github.com/Pongchakorn/autobuild/compare/v1.0.1...v1.1.0) (2020-06-01)
 
 
